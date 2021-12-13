@@ -10,23 +10,23 @@
 
 - 渲染引擎：加载代码的速度、性能和效果不同
 
-&ensp;&ensp;&ensp;&ensp;|浏览器|内核|备注|
-&ensp;&ensp;&ensp;&ensp;|---|---|---|
-&ensp;&ensp;&ensp;&ensp;|IE|Trident|360，百度|
-&ensp;&ensp;&ensp;&ensp;|FireFox|Gecko| |
-&ensp;&ensp;&ensp;&ensp;|Safari|Webkit| |
-&ensp;&ensp;&ensp;&ensp;|Chrome/Opera|Blink|是Webkit的分支|
-&ensp;&ensp;&ensp;&ensp;
+|浏览器|内核|备注|
+|---|---|---|
+|IE|Trident|360，百度|
+|FireFox|Gecko| |
+|Safari|Webkit| |
+|Chrome/Opera|Blink|是Webkit的分支|
+
 
 
 ### 💡Web标准
 
-&ensp;&ensp;&ensp;&ensp;|构成|语言|说明|
-&ensp;&ensp;&ensp;&ensp;|---|---|---|
-&ensp;&ensp;&ensp;&ensp;|结构|HTML|页面元素和内容|
-&ensp;&ensp;&ensp;&ensp;|表现|CSS|网页元素的外观和位置等页面样式（颜色、大小等）|
-&ensp;&ensp;&ensp;&ensp;|行为|JavaScript|网页模型的定义与页面交互|
-&ensp;&ensp;&ensp;&ensp;
+|构成|语言|说明|
+|---|---|---|
+|结构|HTML|页面元素和内容|
+|表现|CSS|网页元素的外观和位置等页面样式（颜色、大小等）|
+|行为|JavaScript|网页模型的定义与页面交互|
+
 
 
 ![](image/image.png)
